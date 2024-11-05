@@ -166,3 +166,24 @@ Bu projede, kullanıcıların birbirlerini takip edebileceği ve müzik tercihle
 | Fatura Tarihi      | Faturanın oluşturulma tarihi                |
 
 ---
+
+## Varlık-İlişki tablosu:
+| Varlık 1      | Varlık 2      | İlişki Türü          |
+|---------------|---------------|----------------------|
+| Kullanıcı     | Takipçi       | Sahiptir (1, N)     |
+| Kullanıcı     | Mesaj         | Sahiptir (1, N)     |
+| Kullanıcı     | Bildirim      | Sahiptir (1, N)     |
+| Kullanıcı     | Abonelik      | Sahiptir (1, 1)     |
+| Kullanıcı     | Fatura        | Ait (1, N)          |
+| Kullanıcı     | Sanatçı       | Bir (1, 1)          |
+| Kullanıcı     | Post          | Paylaşır (1, N)     |
+| Kullanıcı     | Playlist      | Oluşturur (1, N)    |
+| Kullanıcı     | Kullanıcı     | Takip Eder (1, N)   |
+| Müzik         | Playlist      | Bulunur (M, N)      |
+| Müzik         | Albüm         | Bulunur (M, N)      |
+| Sanatçı       | Müzik         | Yayınlar (1, N)     |
+| Post          | Müzik         | İçerik (1, 1)       |
+| Post          | Albüm         | İçerik (1, 1)       |
+| Post          | Playlist      | İçerik (1, 1)       |
+| Post          | Beğeni        | Atılmış (1, M)      |
+| Post          | Yorum         | Yapılmış (1, N)     |

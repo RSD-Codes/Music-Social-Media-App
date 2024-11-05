@@ -4,9 +4,9 @@
 - SEYİT İLHAM FIRTINA | 220260140
 - HALİL İBRAHİM TURAN | 220260044
 
-Projemiz, kullanıcıların müzik, playlist ve albüm paylaşımı yapabildiği, müzik odaklı bir sosyal medya platformu oluşturmayı hedeflemektedir. Kullanıcılar burada kendi profillerini oluşturabilecek, diğer kullanıcıları takip edebilecek, albüm ve şarkı paylaşımlarında bulunabileceklerdir. Bu platform, müzikseverlerin bir araya gelip müzik zevklerini paylaşmalarını, yeni müzikler keşfetmelerini, şarkılar ve albümler hakkında yorum yapmalarını sağlarken, aynı zamanda etkileşimli bir topluluk oluşturmayı amaçlamaktadır.
+Projemiz; kullanıcıların müzik, playlist ve albüm paylaşımı yapabildiği müzik odaklı bir sosyal medya platformu oluşturmayı hedeflemektedir. Kullanıcılar burada kendi profillerini oluşturabilecek, diğer kullanıcıları takip edebilecek, albüm ve şarkı paylaşımlarında bulunabileceklerdir. Bu platform, müzikseverlerin bir araya gelip müzik zevklerini paylaşmalarını, yeni müzikler keşfetmelerini, şarkılar ve albümler hakkında yorum yapmalarını sağlarken, aynı zamanda etkileşimli bir topluluk oluşturmayı amaçlıyoruz.
 
-Platformumuzda, kullanıcılar beğendikleri paylaşımları "like" ederek etkileşim sağlayabilecek ve diğer kullanıcıların şarkı veya albümlerine yorum bırakabileceklerdir. Ayrıca, premium abonelik sistemi ile kullanıcılar bazı özel özelliklere erişebilecek ve çeşitli ödeme yöntemleri ile aboneliklerini yenileyebileceklerdir. Her kullanıcının ödeme geçmişi, faturaları ve abonelik durumları sistemde detaylı şekilde kayıt altına alınacak, böylece kullanıcıların ödeme işlemlerini kolayca takip etmeleri sağlanacaktır.
+Platformumuzda, kullanıcılar paylaşımları "Beğeni" ederek etkileşim sağlayabilecek ve diğer kullanıcıların şarkı veya albümlerine yorum bırakabileceklerdir. Ayrıca, premium abonelik sistemi ile kullanıcılar bazı özel özelliklere erişebilecek ve çeşitli ödeme yöntemleri ile aboneliklerini yenileyebileceklerdir. Her kullanıcının ödeme geçmişi, faturaları ve abonelik durumları sistemde yönetilecektir.
 
 Bu projede, kullanıcıların birbirlerini takip edebileceği ve müzik tercihlerini paylaşarak daha geniş bir müzik kütüphanesine ulaşabileceği, tüm dünyadan müzikseverlerin buluştuğu bir dijital ortam oluşturulması hedeflenmektedir.
 

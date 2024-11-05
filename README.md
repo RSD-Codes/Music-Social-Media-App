@@ -1,10 +1,15 @@
 # Music-Social-Media-App!
+Katılımcılar
+• AKİF KARACA | 220260608
+• SEYİT İLHAM FIRTINA | 220260140
+• HALİL İBRAHİM TURAN | 220260044
 
-
+# Projenin E-R Diyagramı
 ![Başlıksız Diyagram (2)](https://github.com/user-attachments/assets/4c9faeb4-1479-4ae4-8e51-2fa39a2c64bb)
 
 ---
 
+# Tablolar ve Varlık - Nitelik İlişkisi
 ### 1. Kullanıcı (User)
 | Özellik Adı      | Açıklama                          |
 |------------------|-----------------------------------|

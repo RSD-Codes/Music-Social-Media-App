@@ -11,7 +11,7 @@ Platformumuzda, kullanıcılar paylaşımları "Beğeni" ederek etkileşim sağl
 Bu projede, kullanıcıların birbirlerini takip edebileceği ve müzik tercihlerini paylaşarak daha geniş bir müzik kütüphanesine ulaşabileceği, tüm dünyadan müzikseverlerin buluştuğu bir dijital ortam oluşturulması hedeflenmektedir.
 
 # Projenin E-R Diyagramı
-![Başlıksız Diyagram (2)](https://github.com/user-attachments/assets/4c9faeb4-1479-4ae4-8e51-2fa39a2c64bb)
+![Başlıksız Diyagram drawio (2)](https://github.com/user-attachments/assets/d54217f8-c85f-4c84-972e-cfd679436261)
 
 ---
 

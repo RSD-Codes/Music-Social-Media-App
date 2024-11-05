@@ -1,4 +1,4 @@
-# Music-Social-Media-App!
+# Müzik Sosyal Medya Uygulaması Veri Tabanı Sistemi
 ## Katılımcılar
 - AKİF KARACA | 220260608
 - SEYİT İLHAM FIRTINA | 220260140

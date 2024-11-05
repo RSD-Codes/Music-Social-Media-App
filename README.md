@@ -28,7 +28,6 @@ Bu projede, kullanıcıların birbirlerini takip edebileceği ve müzik tercihle
 | Yasi             | Kullanıcının yaşı                |
 | K_Resmi          | Kullanıcının profil resmi        |
 
----
 
 ### 2. Bildirimler (Notifications)
 | Özellik Adı      | Açıklama                          |

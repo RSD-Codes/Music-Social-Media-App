@@ -1,3 +1,4 @@
 # Music-Social-Media-App!
 
-![Başlıksız Diyagram (1)](https://github.com/user-attachments/assets/af2b5077-8356-442d-a075-860f5b89e6e4)
+
+![Başlıksız Diyagram (2)](https://github.com/user-attachments/assets/4c9faeb4-1479-4ae4-8e51-2fa39a2c64bb)

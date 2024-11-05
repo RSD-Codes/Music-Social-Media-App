@@ -31,30 +31,33 @@ Bu projede, kullanıcıların birbirlerini takip edebileceği ve müzik tercihle
 ---
 
 ### 2. Bildirimler (Notifications)
-| Özellik Adı      | Açıklama                          |
-|------------------|-----------------------------------|
-| B_ID             | Bildirim ID (birincil anahtar)   |
+| Özellik Adı      | Açıklama                           |
+|------------------|------------------------------------|
+| B_ID             | Bildirim ID (birincil anahtar)    |
+| K_ID             | Bildirim ID (ikincil anahtar)     |
+| B_Metni          | Bildirimin metin içeriği          |
+| Okunma           | Bildirim Okunma durumu (O yada 1) |
+| OluşTarihi       | Bildirimin oluşturulma tarihi     |
 
 ---
 
 ### 3. Mesaj (Messages)
-| Özellik Adı        | Açıklama                                     |
-|--------------------|----------------------------------------------|
-| M_ID               | Mesaj ID (birincil anahtar)                 |
-| M_İçerik           | Mesajın içeriği                              |
-| GonderenID         | Mesajı gönderen kullanıcının ID'si          |
-| GönderilmeTarihi   | Mesajın gönderildiği tarih ve saat          |
-| AliciID            | Mesajı alan kullanıcının ID'si              |
+| Özellik Adı        | Açıklama                                               |
+|--------------------|--------------------------------------------------------|
+| M_ID               | Mesaj ID (birincil anahtar)                           |
+| M_İçerik           | Mesajın içeriği                                       |
+| GonderenID         | Mesajı gönderen kullanıcının ID'si (ikincil anahtar)  |
+| GönderilmeTarihi   | Mesajın gönderildiği tarih ve saat                    |
+| AliciID            | Mesajı alan kullanıcının ID'si  (ikincil anahtar)     |
 
 ---
 
 ### 4. Takipçi (Followers)
-| Özellik Adı        | Açıklama                                     |
-|--------------------|----------------------------------------------|
-| TakipID            | Takip ID (birincil anahtar)                 |
-| TakipciID          | Takip eden kullanıcının ID'si               |
-| TakipEdilenID      | Takip edilen kullanıcının ID'si             |
-| TakipTarihi        | Takip ilişkisinin kurulduğu tarih           |
+| Özellik Adı        | Açıklama                                      |
+|--------------------|-----------------------------------------------|
+| TakipID            | Takip ID (birincil anahtar)                  |
+| TakipciID          | Takip eden kullanıcının ID'si                |
+| TakipTarihi        | Takip ilişkisinin kurulduğu tarih            |
 
 ---
 
@@ -63,28 +66,28 @@ Bu projede, kullanıcıların birbirlerini takip edebileceği ve müzik tercihle
 |--------------------|----------------------------------------------|
 | S_ID               | Sanatçı ID (birincil anahtar)               |
 | AlbumSayısı        | Sanatçının albüm sayısı                     |
-| Şarkı Sayısı       | Sanatçının şarkı sayısı                     |
+| Şarkı Sayısı       | Sanatçının şarkı sayısı                     | 
 
 ---
 
 ### 6. Paylaşım (Post)
-| Özellik Adı        | Açıklama                                     |
-|--------------------|----------------------------------------------|
-| Post_ID            | Paylaşım ID (birincil anahtar)              |
-| P_Url              | Paylaşımın bağlantısı veya medyası          |
-| PaylasimTarihi     | Paylaşımın yapıldığı tarih ve saat          |
-| K_ID               | Paylaşımı yapan kullanıcının ID'si          |
-| Icerik             | Paylaşımın içeriği                          |
+| Özellik Adı        | Açıklama                                              |
+|--------------------|-------------------------------------------------------|
+| Post_ID            | Paylaşım ID (birincil anahtar)                       |
+| P_Url              | Paylaşımın bağlantısı veya medyası                   |
+| PaylasimTarihi     | Paylaşımın yapıldığı tarih ve saat                   |
+| K_ID               | Paylaşımı yapan kullanıcının ID'si (ikincil anahtar) |
+| Icerik             | Paylaşımın içeriği                                   |
 
 ---
 
 ### 7. Beğeni (Likes)
-| Özellik Adı        | Açıklama                                     |
-|--------------------|----------------------------------------------|
-| Begeni_ID          | Beğeni ID (birincil anahtar)                |
-| K_ID               | Beğeniyi yapan kullanıcının ID'si           |
-| Y_ID               | Beğenilen paylaşımın ID'si                  |
-| BegeniTarihi       | Beğeni işleminin yapıldığı tarih ve saat    |
+| Özellik Adı        | Açıklama                                           |
+|--------------------|----------------------------------------------------|
+| Begeni_ID          | Beğeni ID (birincil anahtar)                      |
+| K_ID               | Beğeniyi yapan kullanıcının ID'si(ikincil anahtar)|
+| P_ID               | Beğenilen paylaşımın ID'si                        |
+| BegeniTarihi       | Beğeni işleminin yapıldığı tarih ve saat          |
 
 ---
 
